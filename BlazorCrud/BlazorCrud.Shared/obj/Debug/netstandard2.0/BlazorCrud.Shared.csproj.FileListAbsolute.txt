@@ -1,0 +1,12 @@
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\bin\Debug\netstandard2.0\BlazorCrud.Shared.deps.json
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\bin\Debug\netstandard2.0\BlazorCrud.Shared.dll
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\bin\Debug\netstandard2.0\BlazorCrud.Shared.pdb
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.csprojResolveAssemblyReference.cache
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.csproj.CoreCompileInputs.cache
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.AssemblyInfoInputs.cache
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.AssemblyInfo.cs
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.dll
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.pdb
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+c:\users\ankit\source\repos\BlazorCrud\BlazorCrud\BlazorCrud.Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.csproj.CopyComplete
